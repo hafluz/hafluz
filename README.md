@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **SQL, Tableau, Google Cloud, BigQuery, MS Excel**
 
-- 🌎 How to reach me [www.linkedin.com/in/henrique-augsten-luz](www.linkedin.com/in/henrique-augsten-luz)
+- 🌎 How to reach me [www.linkedin.com/in/henrique-augsten-luz](https://www.linkedin.com/in/henrique-augsten-luz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
