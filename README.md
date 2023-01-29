@@ -2,8 +2,8 @@
 <h4 align="center">A data analyst exploring the world of data</h4>
 
 - 🚧 I’m currently working on a **[data analytics project with Python](https://github.com/hafluz/data_python)**
-- 🛠️ Check out my latest finished data analysis project: **[How Green is the Energy we use?](https://github.com/hafluz/data-insights)**
-- 🔭 All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
+- 🔭 Check out my latest finished data analysis project: **[How Green is the Energy we use?](https://github.com/hafluz/data-insights)**
+- 🗄️ All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
 - 📐 Check out my data visualization projects on **[my Tableau profile](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 - 💡 I’m looking to collaborate on **Data Analysis and visualization projects with others**
 - 💬 Let's interact about projects in **SQL, Python, Pandas, Tableau, Google Cloud, BigQuery, MS Excel**
