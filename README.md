@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A data analyst exploring the world of data</h3>
+<h3 align="center">Hi 👋, I'm Henrique</h3>
+<h4 align="center">A data analyst exploring the world of data</h4>
 
-- 🔨 I’m currently working on a data analysis and visualization project: **[How Green is the Energy we use?](https://github.com/hafluz/data-insights)**
-- 🧠 I’m currently developing skills in **Python**
+- 🚧 I’m currently working on a **[data analytics project with Python](https://github.com/hafluz/data_python)**
+- 🔨 Check out my latest finished data analysis project: **[How Green is the Energy we use?](https://github.com/hafluz/data-insights)**
 - 💡 I’m looking to collaborate on **Data Analysis and visualization projects with others**
-- 🔭 All of my projects are available **[here](https://github.com/hafluz?tab=repositories)**
+- 🔭 All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
 - 📐 Check out my data visualization projects on **[my Tableau profile](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
-- 💬 Ask me about **SQL, Python, Pandas, Tableau, Google Cloud, BigQuery, MS Excel**
+- 💬 Let's intereact about projects in **SQL, Python, Pandas, Tableau, Google Cloud, BigQuery, MS Excel**
 - 🌎 How to reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten-luz)**
 
 <h3 align="left">Connect with me:</h3>
