@@ -2,15 +2,15 @@
 <h4 align="center">Data analysis and visualization projects</h4>
 
 - 🔭 Check out my latest finished data analysis project: **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)**
-- 🚧 Currently working on a **[Data Exploration Project with Python](https://github.com/hafluz/data_python)**
+- 🚧 Currently working on a **[data exploration project with Python](https://github.com/hafluz/data_python)**
 - 🗄️ All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
 - 📐 Check out my data visualization projects on **[my Tableau profile](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 - 🛠️ Tools most used: **SQL, Python, Pandas, Tableau, Google Cloud, BigQuery, MS Excel**
-- 🌎 You can reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten-luz)**
+- 🌎 You can reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/henrique-augsten-luz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-augsten-luz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/henrique-augsten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-augsten-luz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
