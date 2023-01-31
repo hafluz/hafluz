@@ -1,12 +1,12 @@
 <h3 align="center">Hi 👋, I'm Henrique</h3>
 <h4 align="center">Data analysis and visualization projects</h4>
 
-- 🔭 Check out my latest finished data analysis project: **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)**
+- 🌎 Check out my latest finished data analysis project: **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)**
 - 🚧 Currently working on a **[data exploration project with Python](https://github.com/hafluz/data_python)**
 - 🗄️ All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
 - 📐 Check out my data visualization projects on **[my Tableau profile](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 - 🛠️ Tools most used: **SQL, Tableau, Python (Pandas, NumPy, Matplotlib), Google Cloud, BigQuery, MS Excel**
-- 🌎 You can reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten)**
+- 🔭 You can reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
