@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Henrique</h3>
-<h4 align="center">Data analysis and visualization projects</h4>
+<h4 align="center">Data Analyst | SQL | Tableau | Python | Pandas | BigQuery | Data Visualization | Google Cloud</h4>
 
 - 🌎 Check out my latest finished data analysis project: **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)**
 - 🚧 Currently working on a **[exploratory data analysis project with Python](https://github.com/hafluz/data_python)**
