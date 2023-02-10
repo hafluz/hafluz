@@ -1,5 +1,6 @@
 <h3 align="center">Hi 👋, I'm Henrique</h3>
-<h4 align="center"> A Data analyst with experience developing and implementing projects related to Data analytics, ETL, Data visualization, BI, APIs and Cloud Applications.</h4>
+<h4 align="center"> A Data analyst with experience developing and implementing projects related to
+<br>data analytics, ETL, data visualization, BI, APIs and cloud applications.</h4>
 
 - 🔭 Check out my latest data analysis projects: \
            - 🌎 **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)** \
