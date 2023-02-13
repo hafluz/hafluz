@@ -2,11 +2,8 @@
 <h4 align="center"> A Data analyst with experience developing and implementing projects related to
 <br>data analytics, ETL, data visualization, BI, APIs and cloud applications.</h4>
 
-* 🔭 Check out my latest data analysis projects: 
-  - 🌎 **[How Green is the Energy We Use?](https://github.com/hafluz/data-insights)** 
-  - 🌊 **[Tsunamis Exploratory Data Analysis with Python](https://github.com/hafluz/data_python)**
-* 🗄️ All of my data analysis and visualization projects **[are available here](https://github.com/hafluz?tab=repositories)**
-* 📐 Check out my data visualization projects on **[my Tableau profile](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
+* 🔭 Check out my data analysis portfolio: **[github.com/hafluz/portfolio](https://github.com/hafluz/portfolio)**
+* 📐 Check out my data visualization projects on my Tableau profile: **[tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)**
 * 🛠️ Tools most used: **SQL, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), Google Cloud, BigQuery, MS Excel**
 * 📮 You can reach me on **[Linkedin](https://www.linkedin.com/in/henrique-augsten)**
 
